@@ -1,7 +1,7 @@
 // import of React is needed because of JSX
-import React from 'react';
+import React, { Component } from 'react';
 
-class SearchBar extends React.Component { // class-based component
+class SearchBar extends Component { // class-based component
   render() {
     return <input/>;
   }
