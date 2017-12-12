@@ -1,7 +1,7 @@
 // import of React is needed because of JSX
 import React from 'react';
 
-const SearchBar = () => {
+const SearchBar = () => { // function component
   return <input/>
 };
 

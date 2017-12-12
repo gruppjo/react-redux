@@ -7,7 +7,7 @@ import SearchBar  from './components/search-bar'
 
 // Create a new component. This component should produce
 // some HTML
-const App = () => {
+const App = () => { // functional component
   return (
     <div>
       <SearchBar/>
